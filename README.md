@@ -1,4 +1,4 @@
-Simple example to get started with Kafka in Golang.
+Simple example to get started with Kafka in Golang. This sample is tested for macOS
 
 Follow these steps to create a record and consume it.
 
